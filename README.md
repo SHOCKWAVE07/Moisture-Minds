@@ -18,3 +18,9 @@ To run this project locally, follow these steps:
 * Clone the repository: git clone https://github.com/your/repository.git
 * Install the required dependencies: pip install -r requirements.txt
 * Set up the necessary environment variables: (List any specific environment variables if applicable)
+
+# Results
+
+* Root Mean Square Error : 243.76 and 388.20 on two bifurcated models respectively.
+* This model is part of a Hackathon called Moisture Minds PARSAC'23 by IIT Dharwad.
+* This landed out team 9th rank among 416 registrations.
