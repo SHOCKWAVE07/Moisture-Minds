@@ -22,5 +22,5 @@ To run this project locally, follow these steps:
 # Results
 
 * Root Mean Square Error : 243.76 and 388.20 on two bifurcated models respectively.
-* This model is part of a Hackathon called Moisture Minds PARSAC'23 by IIT Dharwad.
+* This model is part of a Hackathon called Moisture Minds PARSEC'23 by IIT Dharwad.
 * This landed out team 9th rank among 416 registrations.
