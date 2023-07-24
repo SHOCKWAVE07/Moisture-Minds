@@ -1,4 +1,4 @@
-# Moisture-Minds
+# Moisture-Minds - Predictive Soil Moisture Modeling
 
 This project focuses on utilizing a dataset containing daily soil moisture measurements from July 2022 to March 10, 2023, at the Space Data Science Lab, IIT Dharwad. The objective is to develop a predictive model that can estimate soil moisture levels specifically for the month of March 2023.
 
